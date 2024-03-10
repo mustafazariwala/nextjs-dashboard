@@ -3,8 +3,8 @@
 Welcome to our React Next.js application! This README will guide you through setting up and using our application, which showcases invoices, customer data, login authentication, and more. Our PostgreSQL database is hosted on Vercel, ensuring seamless data management and access.
 
 ## DEMO
+  [https://nextjs-dashboard-psi-woad-35.vercel.app/](https://nextjs-dashboard-psi-woad-35.vercel.app/)
 ```
-  https://nextjs-dashboard-psi-woad-35.vercel.app/
   username: user@nextmail.com
   password: 123456
 ```
